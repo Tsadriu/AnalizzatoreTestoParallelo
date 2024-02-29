@@ -1,5 +1,9 @@
 # AnalizzatoreTestoParallelo
 
+## Programmatori
+
+**Fabio Oliveira** e **Giada Pintos**, classe **I4a**.
+
 ## Descrizione
 
 L'obiettivo di questo progetto è sviluppare un'applicazione in C# che analizza testi provenienti da file di grandi
